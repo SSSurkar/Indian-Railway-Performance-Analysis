@@ -39,8 +39,8 @@ This project analyzes the **performance of Indian Railways** using **Power BI**,
 - **Enhancing UI with additional drill-through pages.**
 
 ## 📎 Project Screenshots
-C:\Users\SRUJAN\OneDrive\Pictures\Screenshots\Overview.png
-C:\Users\SRUJAN\OneDrive\Pictures\Screenshots\Performance.png
+![Overview](https://github.com/user-attachments/assets/a8ec8f89-d0da-49a3-83a5-f399929b0d26)
+![Performance](https://github.com/user-attachments/assets/653f02fb-a10c-45e4-99fc-e5fdfcbe79ac)
 
 ## 📢 Connect with Me
 **GitHub:** (https://github.com/SSSurkar))  
